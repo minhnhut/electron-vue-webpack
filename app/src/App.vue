@@ -16,20 +16,28 @@
             building with Webpack.
         </p>
         <p>
+            <b-button variant="primary">Bootstrap Vue</b-button> and <strong><font-awesome-icon icon="heart" /> Fontawesome 5</strong> included. 
+            
+        </p>
+        <p>
             Here are the docs for
             <a href='#' @click="link('http://electron.atom.io/docs/')">
                 Electron</a>,
             <a href='#' @click="link('http://vuejs.org/guide/')">
                 Vue 2</a> and
             <a href='#' @click="link('http://webpack.github.io/docs/')">
-                Webpack</a>.
+                Webpack</a> and
+            <a href='#' @click="link('https://bootstrap-vue.js.org/docs/')">
+                Bootstrap Vue</a> and
+            <a href='#' @click="link('https://github.com/FortAwesome/vue-fontawesome')">
+                Fontawesome Vue</a>
             Customize this template as you wish by adding any
             fancy tool you are used to.
         </p>
         <p>
             If you have any issues, please
             file an issue at this seed's
-            <a href='#' @click="link('https://github.com/pastahito/electron-vue-webpack')">
+            <a href='#' @click="link('https://github.com/minhnhut/electron-vue-webpack')">
                 repository</a>.
         </p>
     </div>
