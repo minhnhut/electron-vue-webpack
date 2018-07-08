@@ -1,3 +1,7 @@
+I made some modifications from original pastahito/electron-vue-webpack to suit my taste. By adding bootstrap-vue, fontawesome-vue and also enable style-loader, css-loader in webpack.config.js.
+
+(many thanks to pastahito, for his original minimal template)
+
 # electron-vue-webpack
 Got tired finding Electron/Vue2/Webpack2 templates with fancy add-ons you don't really need?
 
