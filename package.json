@@ -1,19 +1,17 @@
 {
   "name": "electron-vue-webpack",
-  "version": "1.0.0",
-  "description": "A minimal Electron + Vue 2 + Webpack 2 setup with few dependencies for quick development.",
+  "version": "1.0.1",
+  "description": "A minimal Electron + Vue 2 + Webpack 2 + Bootstrap Vue + Fontawesome Vue setup with few dependencies for quick development.",
   "main": "main.js",
   "scripts": {
     "dev": "webpack",
     "start": "electron ."
   },
-  "author": "J. Renato Ramos González <renato.etc.etc.etc@gmail.com>",
-  "repository": "pastahito/electron-vue-webpack",
+  "author": "Minh Nhut",
+  "repository": "minhnhut/electron-vue-webpack",
   "license": "WTFPL",
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.11",
-    "sequelize": "^4.38.0",
-    "sqlite3": "^4.0.1",
     "style-loader": "^0.21.0",
     "vue": "^2.0.1",
     "@fortawesome/fontawesome": "^1.1.8",
